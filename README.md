@@ -6,7 +6,7 @@ This is the centralized [Scalafmt](https://github.com/scalameta/scalafmt/) confi
 ### Maven
 This [maven plugin](https://github.com/SimonJPegg/mvn_scalafmt) allows the use of the Scalafmt formatter in Maven.
 
-Specify the [.scalafmt.conf](./scalafmt.conf) when you set this plugin.
+Specify the [.scalafmt.conf](./.scalafmt.conf) when you set this plugin.
 
 ```
 <configLocation>https://raw.githubusercontent.com/ubirch/ubirch-scalafmt-rules/main/.scalafmt.conf</configLocation>
@@ -18,4 +18,4 @@ Follow the [official documentation](https://scalameta.org/scalafmt/docs/installa
 ### IntelliJ
 You can apply this formatter when you run your project on IntelliJ.
 
-Follow the [official documentation](https://scalameta.org/scalafmt/docs/installation.html#intellij)
+Follow the [official documentation](https://scalameta.org/scalafmt/docs/installation.html#intellij).
